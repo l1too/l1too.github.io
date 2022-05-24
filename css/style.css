@@ -80,8 +80,8 @@ div a{
 @media screen and (max-width:899px){
     #banner{
         background: #E8CBC0;  /* fallback for old browsers */
-        background: -webkit-linear-gradient(to right, rgba(99, 111, 164, 0.589), rgba(200, 163, 150, 0.606)), url(../IMAGES/conan2.jpg) no-repeat center center/cover;  /* Chrome 10-25, Safari 5.1-6 */
-        background: linear-gradient(to right, rgba(99, 111, 164, 0.605), rgba(200, 163, 150, 0.606)), url(../IMAGES/conan2.jpg) no-repeat center center/cover; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        background: -webkit-linear-gradient(to right, rgba(99, 111, 164, 0.589), rgba(200, 163, 150, 0.606)), url(../images/conan2.jpg) no-repeat center center/cover;  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, rgba(99, 111, 164, 0.605), rgba(200, 163, 150, 0.606)), url(../images/conan2.jpg) no-repeat center center/cover; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         text-align: center;
     }
     #navi ul{
